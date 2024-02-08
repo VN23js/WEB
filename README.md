@@ -1,2 +1,5 @@
-Путь к react,vue.js
-![image](https://github.com/VN23js/WEB/assets/90689988/910458a9-d5ff-42e0-8a25-ca834c4e7d57)
+Путь к react, vue.js изучение базы css, html, js.
+Практика по верстке на сборке gulp 
+![image](https://github.com/VN23js/WEB/assets/90689988/9f747d65-a4ed-4343-8ff3-ad08f8b55c0f)
+
+
